@@ -9,7 +9,7 @@
 
 int main(void)
 {
-int x = 5;
+int x = 15;
 int y = 10;
 
 if (x > y)
